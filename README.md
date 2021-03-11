@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 📝 I regularly write articles on [here](yeGenieee.github.io)
+- 📝 I regularly write articles on [here](https://yegenieee.github.io/)
 
 - 📫 How to reach me **cyj95428@gmail.com**
 
