@@ -3,7 +3,7 @@
 <!-- <h2 align="center">Hi 👋, I'm Yejin Choi</h2> -->
 <h3>Backend Developer</h3>
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **SpringBoot**, **Spark**
 
 - 📝 I regularly write articles on [here](https://yegenieee.github.io/)
 
